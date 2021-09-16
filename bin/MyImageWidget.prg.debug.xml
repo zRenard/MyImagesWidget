@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\fox\OneDrive\Projects\git_clones\MyImagesWidget\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="4" lineNum="11" pc="268435479" symbol="settingUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="5" lineNum="19" pc="268435484" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="6" lineNum="23" pc="268435489" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="7" lineNum="27" pc="268435494" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="7" lineNum="28" pc="268435498" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="8" lineNum="31" pc="268435566" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="8" lineNum="32" pc="268435570" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="8" lineNum="33" pc="268435582" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="9" lineNum="37" pc="268435599" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="9" lineNum="38" pc="268435603" symbol="getGlanceView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="9" lineNum="5" pc="268435994" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="10" lineNum="42" pc="268436013" symbol="getApp"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetApp.mc" id="10" lineNum="43" pc="268436025" symbol="getApp"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="12" lineNum="12" pc="268435641" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="12" lineNum="13" pc="268435645" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="12" lineNum="14" pc="268435663" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="13" lineNum="17" pc="268435682" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="14" lineNum="20" pc="268435687" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="15" lineNum="23" pc="268435692" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="26" pc="268435697" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="27" pc="268435701" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="28" pc="268435714" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="30" pc="268435727" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="31" pc="268435763" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="32" pc="268435775" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="33" pc="268435811" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="34" pc="268435837" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageGlanceView.mc" id="16" lineNum="10" pc="268435975" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="18" lineNum="5" pc="268436042" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="18" lineNum="6" pc="268436046" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="19" lineNum="9" pc="268436069" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="19" lineNum="10" pc="268436073" symbol="onSelect"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="20" lineNum="13" pc="268436077" symbol="onBack"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="20" lineNum="14" pc="268436081" symbol="onBack"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="21" lineNum="17" pc="268436085" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="21" lineNum="18" pc="268436089" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="21" lineNum="19" pc="268436106" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="22" lineNum="22" pc="268436110" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="22" lineNum="23" pc="268436114" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="22" lineNum="24" pc="268436131" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetDelegate.mc" id="22" lineNum="4" pc="268437435" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="15" pc="268436135" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="16" pc="268436147" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="17" pc="268436166" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="18" pc="268436177" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="20" pc="268436205" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="23" lineNum="21" pc="268436235" symbol="cycleImages"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="25" lineNum="27" pc="268436252" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="25" lineNum="28" pc="268436256" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="25" lineNum="29" pc="268436274" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="25" lineNum="31" pc="268436292" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="25" lineNum="32" pc="268436317" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="26" lineNum="35" pc="268436330" symbol="startNextDownload"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="26" lineNum="36" pc="268436334" symbol="startNextDownload"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="26" lineNum="37" pc="268436354" symbol="startNextDownload"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="27" lineNum="43" pc="268436378" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="28" lineNum="50" pc="268436383" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="54" pc="268436388" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="56" pc="268436392" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="57" pc="268436405" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="58" pc="268436418" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="59" pc="268436454" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="60" pc="268436466" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="61" pc="268436573" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="29" lineNum="63" pc="268436648" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="67" pc="268436784" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="68" pc="268436788" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="69" pc="268436810" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="70" pc="268436833" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="71" pc="268436836" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="77" pc="268436890" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="78" pc="268436948" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="30" lineNum="79" pc="268436998" symbol="loadImage"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="82" pc="268437020" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="83" pc="268437024" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="84" pc="268437028" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="85" pc="268437061" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="86" pc="268437072" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="87" pc="268437100" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="88" pc="268437133" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="89" pc="268437166" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="90" pc="268437188" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="31" lineNum="91" pc="268437204" symbol="loadImageRequestCallback"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="32" lineNum="97" pc="268437217" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="32" lineNum="24" pc="268437484" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="32" lineNum="10" pc="268435920" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\MyImagesWidget\\source\\MyImageWidgetView.mc" id="32" lineNum="11" pc="268435960" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="38" lineNum="18" pc="268437222" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="21" pc="268437234" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="22" pc="268437353" symbol="MainLayout"/>
+        <entry filename="Rez" id="38" lineNum="24" pc="268437417" symbol="MainLayout"/>
+        <entry filename="Rez" id="40" lineNum="1" pc="268437454" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="24" method="true" symbol="MainLayout"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8389661" symbol="maxWidth"/>
+        <entry id="11" object="true" symbol="MyImageWidgetDelegate"/>
+        <entry id="9" object="true" symbol="MyImageWidgetApp"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="13" symbol="imagesURL"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="27" method="true" symbol="loadImage"/>
+        <entry id="10" object="true" symbol="MyImageGlanceView"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="16" symbol="nbloadedImages"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="22" symbol="id_monkey"/>
+        <entry id="17" method="true" symbol="cycleImages"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389657" symbol="maxHeight"/>
+        <entry field="true" id="15" symbol="selection"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="8389843" symbol="responseCode"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="18" object="true" symbol="MyImageWidgetView"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="23" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="14" symbol="imagesData"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="19" method="true" symbol="settingUpdate"/>
+        <entry id="26" method="true" symbol="startNextDownload"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="8389694" symbol="dithering"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8391457" method="true" symbol="getGlanceView"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="12" symbol="maxImage"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="28" method="true" symbol="loadImageRequestCallback"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435493" name="state" stackId="1" startPc="268435489"/>
+        <entry arg="true" endPc="268435696" name="dc" stackId="1" startPc="268435692"/>
+        <entry endPc="268435918" name="height" stackId="3" startPc="268435701"/>
+        <entry endPc="268435918" name="width" stackId="2" startPc="268435701"/>
+        <entry arg="true" endPc="268435919" name="dc" stackId="1" startPc="268435697"/>
+        <entry endPc="268436250" name="nbImages" stackId="2" startPc="268436147"/>
+        <entry arg="true" endPc="268436251" name="direction" stackId="1" startPc="268436135"/>
+        <entry arg="true" endPc="268436382" name="dc" stackId="1" startPc="268436378"/>
+        <entry endPc="268436782" name="height" stackId="3" startPc="268436392"/>
+        <entry endPc="268436782" name="width" stackId="2" startPc="268436392"/>
+        <entry arg="true" endPc="268436783" name="dc" stackId="1" startPc="268436388"/>
+        <entry endPc="268436944" name="options" stackId="3" startPc="268436833"/>
+        <entry endPc="268436944" name="parameters" stackId="2" startPc="268436833"/>
+        <entry arg="true" endPc="268437019" name="index" stackId="1" startPc="268436784"/>
+        <entry arg="true" endPc="268437216" name="responseCode" stackId="1" startPc="268437020"/>
+        <entry arg="true" endPc="268437216" name="data" stackId="2" startPc="268437020"/>
+        <entry endPc="268437433" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437234"/>
+        <entry arg="true" endPc="268437434" name="dc" stackId="1" startPc="268437222"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/MyImageGlanceView" offset="222" parentId="globals" symbolId="MyImageGlanceView" type="class"/>
+        <dataEntry label="globals/MyImageWidgetApp" offset="301" parentId="globals" symbolId="MyImageWidgetApp" type="class"/>
+        <dataEntry label="globals/MyImageWidgetDelegate" offset="910" parentId="globals" symbolId="MyImageWidgetDelegate" type="class"/>
+        <dataEntry label="globals/Rez" offset="989" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1068" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1115" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1146" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1177" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1216" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1247" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/MyImageWidgetView" offset="1286" parentId="globals" symbolId="MyImageWidgetView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="MyImageWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="settingUpdate" parent="MyImageWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="MyImageWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="MyImageWidgetApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="MyImageWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="MyImageWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGlanceView" parent="MyImageWidgetApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MyImageGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="MyImageGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="MyImageGlanceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="MyImageGlanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MyImageGlanceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MyImageWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="MyImageWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="MyImageWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="MyImageWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="MyImageWidgetDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="cycleImages">
+            <param id="direction"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MyImageWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startNextDownload" parent="MyImageWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="MyImageWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="MyImageWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MyImageWidgetView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadImage" parent="MyImageWidgetView">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadImageRequestCallback" parent="MyImageWidgetView">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="MyImageWidgetView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
