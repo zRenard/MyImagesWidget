@@ -1,0 +1,24 @@
+<settings>
+    <setting propertyKey="@Properties.Default" title="@Strings.DefaultTitle">
+        <settingConfig type="numeric" min="1" max="6" />
+    </setting>
+
+    <setting propertyKey="@Properties.ImageURL1" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+    <setting propertyKey="@Properties.ImageURL2" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+    <setting propertyKey="@Properties.ImageURL3" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+    <setting propertyKey="@Properties.ImageURL4" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+    <setting propertyKey="@Properties.ImageURL5" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+    <setting propertyKey="@Properties.ImageURL6" title="@Strings.ImageURLTitle">
+        <settingConfig type="url" errorMessage="@Strings.ImageURLError"/>
+    </setting>
+</settings>

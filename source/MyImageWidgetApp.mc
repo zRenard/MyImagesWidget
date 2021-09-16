@@ -11,7 +11,15 @@ class MyImageWidgetApp extends Application.AppBase {
 	function settingUpdate() {
 		// Load Settings
 		// TODO: Load settings
-		
+        for( var i = 0; i < maxImage; i += 1 ) {
+        	var url = Application.getApp().getProperty("ImageURL"+(i+1));
+        	if (url.length() != 0) {
+        		System.println("add "+url);
+				imagesURL.put(i,url);
+			}
+		}
+		selection = Application.getApp().getProperty("Default")-1;
+		if (selection<0 || selection>maxImage) { selection =0; }
     	//AppBase.reloadImages();
 	}
 

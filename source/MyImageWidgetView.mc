@@ -6,8 +6,8 @@ using Toybox.Timer;
 using Toybox.Application.Storage;
 
 
-var maxImage=3 ;
-var imagesURL = { 0 => "https://zrenard.com/buddy.png", 1 => "https://zrenard.com/zrenard_blue.png" } ;
+var maxImage=6 ;
+var imagesURL = {} ;
 var imagesData = {} ;
 var selection = 0 ;
 var nbloadedImages;

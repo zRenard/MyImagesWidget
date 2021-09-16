@@ -1,0 +1,9 @@
+<properties>
+	<property id="Default" type="number">0</property>
+	<property id="ImageURL1" type="string">https://zrenard.com/buddy.png</property>
+	<property id="ImageURL2" type="string">https://zrenard.com/zrenard_blue.png</property>
+	<property id="ImageURL3" type="string"></property>
+	<property id="ImageURL4" type="string"></property>
+	<property id="ImageURL5" type="string"></property>
+	<property id="ImageURL6" type="string"></property>
+</properties>

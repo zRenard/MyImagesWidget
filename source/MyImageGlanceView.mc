@@ -31,6 +31,6 @@ class MyImageGlanceView extends WatchUi.GlanceView {
     	dc.clear();
     	dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    dc.drawRectangle(0, 0, width, height);
-	    dc.drawText(0,height/2-Graphics.getFontHeight(Graphics.FONT_TINY ), Graphics.FONT_SYSTEM_TINY, "My Images ()", Graphics.TEXT_JUSTIFY_LEFT);
+	    dc.drawText(0,height/2-Graphics.getFontHeight(Graphics.FONT_TINY ), Graphics.FONT_SYSTEM_TINY, "My Images ("+nbloadedImages+")", Graphics.TEXT_JUSTIFY_LEFT);
     }
  }
